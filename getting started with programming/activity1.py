@@ -1,0 +1,5 @@
+print("welcome to the world of programming!")
+print(6) 
+print("hello\nwelcome!")
+print("hello",7)
+print("hi!!",end='byee!!')
