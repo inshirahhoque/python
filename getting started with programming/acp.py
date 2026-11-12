@@ -1,9 +1,8 @@
-print("MY PERSONAL GOAL PLAN"\n)
-print:person_name:("priya") 
-print:goal:("guitar")
-print:target_month:("december")
-print:daily_minutes:(30)
-print:reminder:("practise every day!") 
+print("MY PERSONAL GOAL PLAN\n")
+print("my name is","inshirah")
+print("my goal is","guitar")
+print("my target month is","december")
+
 
 
 
