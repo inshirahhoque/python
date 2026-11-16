@@ -1,0 +1,7 @@
+print("name = input"("what is your name?"))
+print("club_name = input"("what is your club name?"))
+print("member_number" = (8)) -> type: <class 'int'>
+print("points: (9.5)) -> type: <class 'float'>
+print("active: true") -> type: <class 'bool'>
+print("badge_code: BestClub67")
+
