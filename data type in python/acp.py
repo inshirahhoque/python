@@ -12,7 +12,7 @@ points = 9.5
 is_active = true
 print("memmber number:", member_number,"-> type:", type(member_number))
 print("points:", points, "-> type:", type(points))
-print("active:", is_active, "-> type:", type:", type(is_active))
+print("active:", is_active, "-> type:",  type(is_active))
 
 # ---------- PART 3 : badge code ----------
 badge_code = name[0:3] + club[-1:] + str(member_number)
