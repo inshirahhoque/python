@@ -17,9 +17,10 @@ print("average per team :", average)
 stars_per_point = 2
 reward_stars = total 
 stars_per_point
-print("total reward stars :", reward stars)
+print("total reward stars :", reward_stars)
 
 print("better than last week? :", total > last_week)
 print("same as last week?     :", total == last_week)
 print("at least as good?      :", total >= last_week)
+
 
